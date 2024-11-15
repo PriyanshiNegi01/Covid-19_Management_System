@@ -111,4 +111,6 @@ cursor.fetchall()
 cursor.fetchmany(size)
 cursor.fetchone()
 ```
+## Tables in MySQL database
+![image](https://github.com/user-attachments/assets/df2a25dd-5788-4a29-80d6-42529ce48b90)
 
