@@ -1,3 +1,3 @@
-# Covid-19_Management_System
+# Covid-19 Management System
 
 The Covid-19 Management System has a facility to give a unique id for every patient and stores the clinical details of every patient and hospital tests done. This project uses Python in the front-end which is an object-oriented programming language and has connectivity with MYSQL. The Covid-19 Management System can be accessed using a username and password. It is accessible by an administrator or receptionist. Only they can add data into the database. It covers all the required modules right from the patients registration, medicine details, doctor, wards, admin details, bill payment, record modification, discharge details etc.
